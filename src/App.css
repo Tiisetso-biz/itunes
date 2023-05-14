@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: medium;
+}
+
+.home {
+  text-align: center;
+  background-image:linear-gradient(white, rgb(124, 124, 147)) ;
+  height: 700px;
+}
+
+h4 {
+  text-align: center;
+}
+
+.button {
+  background-color: #8f97a7;
+  color: white;
+  border-radius: 5px;
+  padding: 2px;
+  width: 80px;
+  margin-left: 10px;
+}
+
+input {
+  border-radius: 5px;
+  width: 300px;
+}
+
+.dropdown {
+  border-radius: 5px;
+  padding: 2px;
+  margin-left: 10px;
+}
