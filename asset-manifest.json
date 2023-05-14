@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itunes/static/css/main.76d408ec.css",
+    "main.js": "/itunes/static/js/main.cd73b233.js",
+    "static/js/787.3ed34c84.chunk.js": "/itunes/static/js/787.3ed34c84.chunk.js",
+    "index.html": "/itunes/index.html",
+    "main.76d408ec.css.map": "/itunes/static/css/main.76d408ec.css.map",
+    "main.cd73b233.js.map": "/itunes/static/js/main.cd73b233.js.map",
+    "787.3ed34c84.chunk.js.map": "/itunes/static/js/787.3ed34c84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d408ec.css",
+    "static/js/main.cd73b233.js"
+  ]
+}
