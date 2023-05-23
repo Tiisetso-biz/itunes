@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/itunes/static/css/main.2f6d786a.css",
-    "main.js": "/itunes/static/js/main.32f090be.js",
-    "static/js/787.3ed34c84.chunk.js": "/itunes/static/js/787.3ed34c84.chunk.js",
-    "index.html": "/itunes/index.html",
-    "main.2f6d786a.css.map": "/itunes/static/css/main.2f6d786a.css.map",
-    "main.32f090be.js.map": "/itunes/static/js/main.32f090be.js.map",
-    "787.3ed34c84.chunk.js.map": "/itunes/static/js/787.3ed34c84.chunk.js.map"
+    "main.css": "/itunes-search/static/css/main.2f6d786a.css",
+    "main.js": "/itunes-search/static/js/main.08023733.js",
+    "static/js/787.3ed34c84.chunk.js": "/itunes-search/static/js/787.3ed34c84.chunk.js",
+    "index.html": "/itunes-search/index.html",
+    "main.2f6d786a.css.map": "/itunes-search/static/css/main.2f6d786a.css.map",
+    "main.08023733.js.map": "/itunes-search/static/js/main.08023733.js.map",
+    "787.3ed34c84.chunk.js.map": "/itunes-search/static/js/787.3ed34c84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f6d786a.css",
-    "static/js/main.32f090be.js"
+    "static/js/main.08023733.js"
   ]
 }
