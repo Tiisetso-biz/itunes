@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/itunes/static/css/main.76d408ec.css",
-    "main.js": "/itunes/static/js/main.cd73b233.js",
+    "main.css": "/itunes/static/css/main.2f6d786a.css",
+    "main.js": "/itunes/static/js/main.32f090be.js",
     "static/js/787.3ed34c84.chunk.js": "/itunes/static/js/787.3ed34c84.chunk.js",
     "index.html": "/itunes/index.html",
-    "main.76d408ec.css.map": "/itunes/static/css/main.76d408ec.css.map",
-    "main.cd73b233.js.map": "/itunes/static/js/main.cd73b233.js.map",
+    "main.2f6d786a.css.map": "/itunes/static/css/main.2f6d786a.css.map",
+    "main.32f090be.js.map": "/itunes/static/js/main.32f090be.js.map",
     "787.3ed34c84.chunk.js.map": "/itunes/static/js/787.3ed34c84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76d408ec.css",
-    "static/js/main.cd73b233.js"
+    "static/css/main.2f6d786a.css",
+    "static/js/main.32f090be.js"
   ]
 }
